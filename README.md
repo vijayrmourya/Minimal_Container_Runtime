@@ -34,3 +34,7 @@ The following behaviors are expected:
 * Basic network namespace support
 * Root filesystem bootstrapping (e.g., with `debootstrap` or unpacked Docker images)
 
+# Index
+
+- Concepts
+  - [Processes](concepts/processes/process.md)
